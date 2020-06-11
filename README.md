@@ -4,3 +4,5 @@
  
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonasmaziero/mecanica_quantica_1900-1925/master)
  
+ https://nbviewer.jupyter.org/github/jonasmaziero/mecanica_quantica_1900-1925/tree/master/
+ 
