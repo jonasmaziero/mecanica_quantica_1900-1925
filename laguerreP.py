@@ -1,2 +1,2 @@
 def laguerre(x):
-    return 0
+    return -x + 4
