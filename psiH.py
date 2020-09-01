@@ -3,7 +3,7 @@ import math
 
 def psi_H(Z,mu,a0,x,z):
     pi = math.pi 
-    return sqrt(Z**3/a0**3)*exp(-x/2)/sqrt(pi)
+    return sqrt(2)*x*z*sqrt(Z**3/a0**3)*exp(-x/2)/(8*sqrt(pi))
 
 def sqrt(x):
     return np.sqrt(x) 
