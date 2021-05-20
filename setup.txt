@@ -18,7 +18,7 @@ $ sudo apt-get install python3-scipy
 $ sudo apt-get install python3-matplotlib
 $ sudo apt-get install python3-pandas
 $ sudo apt-get install python3-pip
-$ sudo pip3 install sympy	
+$ sudo pip3 install sympy
 $ sudo pip3 install ipython
 $ sudo pip3 install jupyter
 
